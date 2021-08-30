@@ -2,9 +2,8 @@
 
 ## I'm a Student studying Computer Science!
 
-- 📚 I'm currently in my third grade of the university!
-- 💻 I’m currently learning Web-development.
-- 👯 I'm looking to job opportunities.
+- 📚 I'm currently in my fourth grade of the university!
+- 💻 I’m working as Full Stack Web-developer.
 
 ### Languages and Tools:
 
